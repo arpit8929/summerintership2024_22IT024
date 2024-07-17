@@ -137,7 +137,7 @@ Mozilla Developer Network (MDN)<br>
 W3Schools JavaScript<br>
 JavaScript.info<br>
 
-##🤝 Connect with Me
+## 🤝 Connect with Me
 LinkedIn: www.linkedin.com/in/arpit-devganiya-961578268<br>
 Email: arpit.devganiya02@gmail.com<br>
 
