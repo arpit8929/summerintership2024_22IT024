@@ -27,13 +27,10 @@ Ensured responsive design for different devices.
 **Day 4: Explored environment of WordPress Technology**
 
 See demo for how to write blogpost in Wordpress.
-make a temporery blog post for experience.
-
-**Day 5: write post about Task 1**
-
+make a temporery blog post for experience.\n
 Write detailed explanation about my code and explanation.
 
-**Day 6: Golfy Project - Conceptualization and Design**
+**Day 5: Golfy Project - Conceptualization and Design**
 
 Brainstormed ideas for the business website "Golfy".
 Sketched wireframes and planned the website structure.
