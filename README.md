@@ -67,6 +67,7 @@ Task: Create a word counter tool using JavaScript.<br>
 Set up the project and outlined the key features.
 
 **Day 2: Implementing JavaScript Task 3**
+
 Developed the word counter functionality to count words in a given text.<br>
 Added features for counting characters and sentences.
 
@@ -104,7 +105,7 @@ Published the blog post on WordPress with a step-by-step guide.
 **Day 4: Golfy Project - Final Touches**
 
 Completed the remaining features of the Golfy website.<br>
-Conducted thorough testing and made final adjustments.
+Conducted thorough testing and made final adjustments.<br>
 Prepared the website for deployment.
 
 ## Week 5: 11th June - 14th June
@@ -137,8 +138,8 @@ W3Schools JavaScript<br>
 JavaScript.info<br>
 
 ##🤝 Connect with Me
-LinkedIn: www.linkedin.com/in/arpit-devganiya-961578268
-Email: arpit.devganiya02@gmail.com
+LinkedIn: www.linkedin.com/in/arpit-devganiya-961578268<br>
+Email: arpit.devganiya02@gmail.com<br>
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
 
