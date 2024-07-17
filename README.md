@@ -4,5 +4,7 @@ Welcome to my GitHub repository for the JavaScript Summer Internship 2024 at Cod
 
 ## 🚀 Introduction
 Internship Period: 14th May 2024 - 14th June 2024
+
 Company: CodeSpeedy
+
 Primary Activities: JavaScript tasks, blog posts on WordPress, and developing a business website project called "Golfy".
